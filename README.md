@@ -1,1 +1,4 @@
-git@github.com:kfengc27/awesone.git
+Collection Of Awesome Resources
+
+### Machine Learning
+http://people.csail.mit.edu/dsontag/courses/ml12/slides/
