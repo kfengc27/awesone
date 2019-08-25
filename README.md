@@ -20,3 +20,7 @@ https://franchise.cloud/
 
 ### Online Forum
 https://ruby-china.org/
+
+### Competitions
+https://tianchi.aliyun.com/
+
