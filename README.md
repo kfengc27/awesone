@@ -17,3 +17,6 @@ https://careersonline.unsw.edu.au/students/login?ReturnUrl=%2fs%2fstudents
 
 ### Notebook for sql
 https://franchise.cloud/
+
+### Online Forum
+https://ruby-china.org/
