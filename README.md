@@ -14,3 +14,6 @@ https://www.goldmansachs.com/index.html
 https://careers.google.com/
 
 https://careersonline.unsw.edu.au/students/login?ReturnUrl=%2fs%2fstudents
+
+### Notebook for sql
+https://franchise.cloud/
